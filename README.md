@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ela60&label=Profile%20views&color=0e75b6&style=flat" alt="ela60" /> </p>
 
-- 🔭 I’m currently Studying Computer Science [PROBLEM SOLVING ON Data Structure](https://github.com/ela60/Data-structure-All-problems.git)
+- 🔭 I’m currently Studying Computer Science [Problem Solving ON Data Structure](https://github.com/ela60/Data-structure-All-problems.git)
 
 - 🌱 I’m currently learning **C#.NET**
 
