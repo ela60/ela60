@@ -1,7 +1,7 @@
-<h3 aling ="left">About Me-</h3>h3>
+<h3 aling ="left">About Me-</h3>
 <p aling ="left">I am a student on studying in CSE.
   Also i want to be a Software Engineer(In sha Allah).
-  Besidly i'm a little youtuber😊 </p>p>
+  Besidly i'm a little youtuber😊 </p>
 
 <h1 align="center">Hi 👋, I'm Ambia Ela</h1>
 <h3 align="center">studying B.SC in Computer Science & Engineering</h3>
@@ -15,6 +15,12 @@
 <a href="https://www.hackerrank.com/ambia ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ambia ela" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ambia ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ambia ela" height="30" width="40" /></a>
 </p>
+
+<h3 aling ="left">About Me-</h3>
+<p aling ="left">I am a student on studying in CSE.
+  Also i want to be a Software Engineer(In sha Allah).
+  Besidly i'm a little youtuber😊 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ela60&label=Profile%20views&color=0e75b6&style=flat" alt="ela60" /> </p>
