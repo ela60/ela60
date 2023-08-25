@@ -1,7 +1,3 @@
-<h3 aling ="left">About Me-</h3>
-<p aling ="left">I am a student on studying in CSE.
-  Also i want to be a Software Engineer(In sha Allah).
-  Besidly i'm a little youtuber😊 </p>
 
 <h1 align="center">Hi 👋, I'm Ambia Ela</h1>
 <h3 align="center">studying B.SC in Computer Science & Engineering</h3>
