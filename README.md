@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **C#.NET**
 
-- 👯 I’m learning Frontend Web Development [Complete Web Develpment](https://github.com/ela60/Software-development-lab.git)
+- 👯 I’m learning Frontend Web Development [Complete Web Develpment](https://github.com/ela60/Software-development-lab.git) & https://github.com/ela60/food-web.git
 
 - 🤝 I’m Aslo learning Software Engineering and Python [Software Testing and Python](https://github.com/ela60/Game-of-python.git)
 
