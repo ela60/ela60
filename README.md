@@ -14,7 +14,7 @@
 
 <h3 aling ="left">About Me-</h3>
 <p aling ="left">I am a student on studying in CSE.
-  Also i want to be a Software Engineer(In sha Allah).
+  Also i want to be a Software Engineer(In shaa Allah).
   Besidly i'm a little youtuber😊 </p>
 
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **19125@imperial.edu.bd**
 
-- 📄 Know about my experiences [I am a small vlogger](I am a small vlogger)
+- 📄 Know about my experiences [I am a small vlogger]
 
 - ⚡ Fun fact **I am funny and always smiling person 😂😊**
 
