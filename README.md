@@ -8,7 +8,6 @@
 <a href="https://fb.com/labonno ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="labonno ela" height="30" width="40" /></a>
 <a href="https://instagram.com/ela_ela427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ela_ela427" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/labonno ela(@labonnoela8474)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="labonno ela(@labonnoela8474)" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ambia ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ambia ela" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ambia ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ambia ela" height="30" width="40" /></a>
 </p>
 
