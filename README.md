@@ -22,11 +22,11 @@
 
 - 🔭 I’m currently Studying Computer Science [PROBLEM SOLVING ON Data Structure](https://github.com/ela60/Data-structure-All-problems.git)
 
-- 🌱 I’m currently learning **C#.NET**
+- 🌱 I’m currently learning **python**
 
 - 👯 I’m learning Frontend Web Development [Complete Web Develpment](https://github.com/ela60/Software-development-lab.git) & https://github.com/ela60/food-web.git
 
-- 🤝 I’m Aslo learning Software Engineering and Python [Software Testing and Python](https://github.com/ela60/Game-of-python.git)
+- 🤝 I’m Aslo learning Software Engineering and Python [Software Testing ]
 
 - 👨‍💻 All of my projects are available at [https://github.com/ela60/Software-d & https://github.com/ela60/Express-MongoDB-CURD-operation.git evelopment-lab.git &](https://github.com/ela60/Software-d & https://github.com/ela60/Express-MongoDB-CURD-operation.git evelopment-lab.git &)
 
