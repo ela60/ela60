@@ -1,6 +1,7 @@
-
+(https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
 <h1 align="center">Hi 👋, I'm Ambia Ela</h1>
 <h3 align="center">Studying B.SC in Computer Science & Engineering</h3>
+### MERN Stack Developer | Computer Science Student 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
