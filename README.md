@@ -24,7 +24,7 @@
 - 🖥️ Always curious, I love to contribute to open-source projects and enhance my knowledge.
 - 🚀 Exploring **Backend Development** and **Database Optimization**.
 - 🔗 Let's connect and collaborate on exciting projects!
-- 📫 How to reach me **ambiaela7275@gmail.com**
+
 - 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
 
 
