@@ -1,9 +1,10 @@
-(https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+
 <h1 align="center">Asslamualikum, I'm Ambia Ela</h1>
 <h2 align="center"> Frontend Developer | Studying in Computer Science and Enginnering </h2> 
 <h3 aling ="left">About Me-</h3>
 <p aling ="left">Hi! I’m Ambia Ela, a passionate Fronted Developer and a Computer Science student. I love building interactive and user-friendly web applications while exploring the latest technologies.I also have a strong background in **Software Quality Assurance (SQA)**. I have experience in test planning, execution, and reporting to identify and resolve defects, enhance reliability, and ensure optimal performance.
   Besidly i'm a little youtuber😊 </p>
+ - 📫 How to reach me **ambiaela7275@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +27,7 @@
 
 - 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
 
-- 📫 How to reach me **ambiaela7275@gmail.com**
+
 
 - ⚡ Fun fact **I am funny and always smiling person 😂😊**
 
