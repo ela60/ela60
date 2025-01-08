@@ -16,21 +16,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ela60&label=Profile%20views&color=0e75b6&style=flat" alt="ela60" /> </p>
 
-- 🔭 I’m currently Working on deep learning on my thesis  [PROBLEM SOLVING ON Data Structure](https://github.com/ela60/Data-structure-All-problems.git)
-
-- 🌱 I’m currently learning **python**
-
-- 👯 I’m learning Frontend Web Development [Complete Web Develpment](https://github.com/ela60/Software-development-lab.git) & https://github.com/ela60/food-web.git
-
-- 🤝 I’m Aslo learning Software Engineering and Python [Software Testing ]
-
-- 👨‍💻 All of my projects are available at [https://github.com/ela60/Software-d & https://github.com/ela60/Express-MongoDB-CURD-operation.git evelopment-lab.git &](https://github.com/ela60/Software-d & https://github.com/ela60/Express-MongoDB-CURD-operation.git evelopment-lab.git &)
+### **Current Activities**
+- 🌱 Currently learning **Next.js** and advanced **React.js** concepts.
+- 💻 I’m currently Working on deep learning on my thesis paper.
+- - 🚀 Exploring **Backend Development** and **Database Optimization**. 
 
 - 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
 
 - 📫 How to reach me **ambiaela7275@gmail.com**
-
-- 📄 Know about my experiences [I am a small vlogger]
 
 - ⚡ Fun fact **I am funny and always smiling person 😂😊**
 
