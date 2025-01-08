@@ -1,3 +1,4 @@
+<img src="https://www.canva.com/design/DAGbnniZNCA/EeH0_JhcSLdPpPrIGY6XXg/view?utm_content=DAGbnniZNCA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac966499f7" alt="Banner Image" style="width:100%; height:auto;" />
 
 <h1 align="center">Asslamualikum, I'm Ambia Ela</h1>
 <h2 align="center"> Frontend Developer | Studying in Computer Science and Enginnering </h2> 
