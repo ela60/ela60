@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/mcVfHvn/Pink-Gaming-You-Tube-Channel-Art-1.png" alt="Banner Image" style="width:100%; height:auto;" />
+<img src="https://i.ibb.co.com/fvMtqgv/Pink-Gaming-You-Tube-Channel-Art.png" alt="Banner Image" style="width:100%; height:auto;" />
 
 
 
