@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ambia-khatun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambia-khatun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/labonno-ela-b158a5213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambia-khatun" height="30" width="40" /></a>
 <a href="https://fb.com/labonno ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="labonno ela" height="30" width="40" /></a>
 <a href="https://instagram.com/ela_ela427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ela_ela427" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/labonno ela(@labonnoela8474)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="labonno ela(@labonnoela8474)" height="30" width="40" /></a>
