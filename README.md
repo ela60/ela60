@@ -17,9 +17,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ela60&label=Profile%20views&color=0e75b6&style=flat" alt="ela60" /> </p>
 
 ### **Current Activities**
-- 🌱 Currently learning **Next.js** and advanced **React.js** concepts.
-- 💻 I’m currently Working on deep learning on my thesis paper.
-- - 🚀 Exploring **Backend Development** and **Database Optimization**. 
+🌱 I'm constantly learning and exploring new technologies like Machine Learning and React.
+💼 Currently working on projects related to MERN Stack, Express.js, Node.js, and MongoDB.
+🎯 I enjoy problem-solving and am actively improving my skills in Data Structures, Algorithms, and Software Testing.
+🖥️ Always curious, I love to contribute to open-source projects and enhance my knowledge.
+🚀 Exploring **Backend Development** and **Database Optimization**.
+🔗 Let's connect and collaborate on exciting projects! 
 
 - 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
 
