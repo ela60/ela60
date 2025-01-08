@@ -6,21 +6,16 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/labonno-ela-b158a5213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambia-khatun" height="30" width="40" /></a>
 <a href="https://fb.com/labonno ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="labonno ela" height="30" width="40" /></a>
-<a href="https://instagram.com/ela_ela427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ela_ela427" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/labonno ela(@labonnoela8474)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="labonno ela(@labonnoela8474)" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ambia ela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ambia ela" height="30" width="40" /></a>
 </p>
 
 <h3 aling ="left">About Me-</h3>
-<p aling ="left">I am a student on studying in CSE.
-  Also i want to be a Software Engineer(In shaa Allah).
+<p aling ="left">Hi! I’m Ambia Ela, a passionate Fronted Developer and a Computer Science student. I love building interactive and user-friendly web applications while exploring the latest technologies.I also have a strong background in **Software Quality Assurance (SQA)**. I have experience in test planning, execution, and reporting to identify and resolve defects, enhance reliability, and ensure optimal performance.
   Besidly i'm a little youtuber😊 </p>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ela60&label=Profile%20views&color=0e75b6&style=flat" alt="ela60" /> </p>
 
-- 🔭 I’m currently Studying Computer Science [PROBLEM SOLVING ON Data Structure](https://github.com/ela60/Data-structure-All-problems.git)
+- 🔭 I’m currently Working on deep learning on my thesis  [PROBLEM SOLVING ON Data Structure](https://github.com/ela60/Data-structure-All-problems.git)
 
 - 🌱 I’m currently learning **python**
 
@@ -32,7 +27,7 @@
 
 - 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
 
-- 📫 How to reach me **19125@imperial.edu.bd**
+- 📫 How to reach me **ambiaela7275@gmail.com**
 
 - 📄 Know about my experiences [I am a small vlogger]
 
