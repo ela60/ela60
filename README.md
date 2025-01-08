@@ -4,8 +4,8 @@
 <h3 aling ="left">About Me-</h3>
 <p aling ="left">Hi! I’m Ambia Ela, a passionate Fronted Developer and a Computer Science student. I love building interactive and user-friendly web applications while exploring the latest technologies.I also have a strong background in **Software Quality Assurance (SQA)**. I have experience in test planning, execution, and reporting to identify and resolve defects, enhance reliability, and ensure optimal performance.
   Besidly i'm a little youtuber😊 </p>
- - 📫 How to reach me **ambiaela7275@gmail.com**
 
+- 📫 How to reach me **ambiaela7275@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/labonno-ela-b158a5213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambia-khatun" height="30" width="40" /></a>
@@ -23,8 +23,8 @@
 - 🎯 I enjoy problem-solving and am actively improving my skills in Data Structures, Algorithms, and Software Testing.
 - 🖥️ Always curious, I love to contribute to open-source projects and enhance my knowledge.
 - 🚀 Exploring **Backend Development** and **Database Optimization**.
-- 🔗 Let's connect and collaborate on exciting projects! 
-
+- 🔗 Let's connect and collaborate on exciting projects!
+- 📫 How to reach me **ambiaela7275@gmail.com**
 - 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
 
 
