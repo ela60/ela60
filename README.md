@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/C3C1MWLz/DALL-E-2025-02-05-01-03-34-A-professional-Git-Hub-banner-design-featuring-the-name-Ambia-Ela-and-the.webp" alt="Banner Image" style="width:100%; height:auto;" />
+<img src="https://i.ibb.co.com/d8vfJ7C/DALL-E-2025-02-05-01-03-34-A-professional-Git-Hub-banner-design-featuring-the-name-Ambia-Ela-and-the.webp" alt="Banner Image" style="width:100%; height:auto;" />
 
 
 
