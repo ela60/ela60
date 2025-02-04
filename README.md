@@ -2,11 +2,58 @@
 
 
 
-<h1 align="center">Asslamualikum, I'm Ambia Ela</h1>
-<h2 align="center"> Frontend Developer | Studying in Computer Science and Enginnering </h2> 
-<h3 aling ="left">About Me-</h3>
-<p aling ="left">Hi! I’m Ambia Khatun Ela, a passionate Fronted Developer and a Computer Science student. I love building interactive and user-friendly web applications while exploring the latest technologies.I also have a background in **Software Quality Assurance (SQA)**. I have experience in test planning, execution, and reporting to identify and resolve defects, enhance reliability, and ensure optimal performance.
-  Besidly i'm a little youtuber😊 </p>
+<h1 align="center" style="font-family: Arial, sans-serif; color: #4A90E2; font-size: 36px; margin-bottom: 10px; animation: fadeIn 2s ease-in;">
+  Assalamualaikum, I'm Ambia Khatun Ela
+</h1>
+<h2 align="center" style="font-family: Arial, sans-serif; color: #7F8C8D; font-size: 28px; margin-bottom: 20px; animation: slideIn 2s ease-in;">
+  MERN Stack Developer | Studying Computer Science and Engineering
+</h2>
+
+<h3 align="left" style="font-family: Arial, sans-serif; color: #2C3E50; font-size: 24px; border-bottom: 2px solid #4A90E2; padding-bottom: 5px; margin-left: 15px; animation: slideInLeft 2s ease-out;">
+  About Me
+</h3>
+<p align="left" style="font-family: Arial, sans-serif; color: #34495E; font-size: 18px; line-height: 1.6; margin-left: 15px; animation: fadeIn 2s ease-in;">
+  Hi! I’m Ambia Khatun Ela, a passionate Frontend Developer and a Computer Science student. I love building interactive and user-friendly web applications while exploring the latest technologies. I also have a background in <strong style="color: #E67E22;">Software Quality Assurance (SQA)</strong>, with experience in test planning, execution, and reporting to identify and resolve defects, enhance reliability, and ensure optimal performance.
+  <br><br>
+  Besides, I'm a little YouTuber 😊
+</p>
+
+<style>
+  /* Animation Definitions */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slideIn {
+    0% {
+      opacity: 0;
+      transform: translateX(-100px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes slideInLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-200px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+</style>
+
 
 - 📫 How to reach me **ambiaela7275@gmail.com**
 <h3 align="left">Connect with me:</h3>
@@ -33,15 +80,39 @@
 
 - ⚡ Fun fact **I am funny and always smiling person 😂😊**
 
-🛠 Skills
-Frontend
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> <img src="https://api.iconify.design/simple-icons:tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"/> <img src="https://api.iconify.design/skill-icons:nextjs-dark.svg" alt="Next.js" width="50" height="50"/> </p>
-Backend
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> <img src="https://api.iconify.design/simple-icons:express.svg" alt="Express.js" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </p>
-Tools & Version Control
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/> </p>
-Other Languages
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/> </p>
+## 🛠 Skills
+
+### **Frontend**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://api.iconify.design/simple-icons:tailwindcss.svg" alt="Tailwind CSS" width="60" height="60"/>
+  <img src="https://api.iconify.design/skill-icons:nextjs-dark.svg" alt="Next.js" width="60" height="60"/>
+</p>
+
+### **Backend**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://api.iconify.design/simple-icons:express.svg" alt="Express.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+</p>
+
+### **Tools & Version Control**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
+</p>
+
+### **Other Languages**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ela60&show_icons=true&locale=en&layout=compact" alt="ela60" /></p>
