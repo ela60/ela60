@@ -2,58 +2,15 @@
 
 
 
-<h1 align="center" style="font-family: Arial, sans-serif; color: #4A90E2; font-size: 36px; margin-bottom: 10px; animation: fadeIn 2s ease-in;">
-  Assalamualaikum, I'm Ambia Khatun Ela
-</h1>
-<h2 align="center" style="font-family: Arial, sans-serif; color: #7F8C8D; font-size: 28px; margin-bottom: 20px; animation: slideIn 2s ease-in;">
-  MERN Stack Developer | Studying Computer Science and Engineering
-</h2>
+<h1 align="center" style="font-family: Arial, sans-serif; color: #4A90E2; font-size: 36px; margin-bottom: 10px;">Assalamualaikum, I'm Ambia Khatun Ela</h1>
+<h2 align="center" style="font-family: Arial, sans-serif; color: #7F8C8D; font-size: 28px; margin-bottom: 20px;">MERN Stack Developer | Studying Computer Science and Engineering</h2>
 
-<h3 align="left" style="font-family: Arial, sans-serif; color: #2C3E50; font-size: 24px; border-bottom: 2px solid #4A90E2; padding-bottom: 5px; margin-left: 15px; animation: slideInLeft 2s ease-out;">
-  About Me
-</h3>
-<p align="left" style="font-family: Arial, sans-serif; color: #34495E; font-size: 18px; line-height: 1.6; margin-left: 15px; animation: fadeIn 2s ease-in;">
+<h3 align="left" style="font-family: Arial, sans-serif; color: #2C3E50; font-size: 24px; border-bottom: 2px solid #4A90E2; padding-bottom: 5px; margin-left: 15px;">About Me</h3>
+<p align="left" style="font-family: Arial, sans-serif; color: #34495E; font-size: 18px; line-height: 1.6; margin-left: 15px;">
   Hi! I’m Ambia Khatun Ela, a passionate Frontend Developer and a Computer Science student. I love building interactive and user-friendly web applications while exploring the latest technologies. I also have a background in <strong style="color: #E67E22;">Software Quality Assurance (SQA)</strong>, with experience in test planning, execution, and reporting to identify and resolve defects, enhance reliability, and ensure optimal performance.
   <br><br>
   Besides, I'm a little YouTuber 😊
 </p>
-
-<style>
-  /* Animation Definitions */
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  @keyframes slideIn {
-    0% {
-      opacity: 0;
-      transform: translateX(-100px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
-
-  @keyframes slideInLeft {
-    0% {
-      opacity: 0;
-      transform: translateX(-200px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
-</style>
-
 
 - 📫 How to reach me **ambiaela7275@gmail.com**
 <h3 align="left">Connect with me:</h3>
