@@ -20,23 +20,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ela60&label=Profile%20views&color=0e75b6&style=flat" alt="ela60" /> </p>
 
-### **Current Activities**
-- 🌱 I'm constantly learning and exploring new technologies like Machine Learning and React.
-- 💼 Currently working on projects related to MERN Stack, Express.js, Node.js, and MongoDB.
-- 🎯 I enjoy problem-solving and am actively improving my skills in Data Structures, Algorithms, and Software Testing.
-- 🖥️ Always curious, I love to contribute to open-source projects and enhance my knowledge.
-- 🚀 Exploring **Backend Development** and **Database Optimization**.
-- 🔗 Let's connect and collaborate on exciting projects!
-
-- 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
-
-
-
-- ⚡ Fun fact **I am funny and always smiling person 😂😊**
-
 
 ## **🛠 Skills**  
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
@@ -51,6 +40,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
 
+### **Current Activities**
+- 🌱 I'm constantly learning and exploring new technologies like Machine Learning and React.
+- 💼 Currently working on projects related to MERN Stack, Express.js, Node.js, and MongoDB.
+- 🎯 I enjoy problem-solving and am actively improving my skills in Data Structures, Algorithms, and Software Testing.
+- 🖥️ Always curious, I love to contribute to open-source projects and enhance my knowledge.
+- 🚀 Exploring **Backend Development** and **Database Optimization**.
+- 🔗 Let's connect and collaborate on exciting projects!
+
+- 💬 Ask me about **c,c++,PHP,java,javascript,Express js,Node js**
+
+
+
+- ⚡ Fun fact **I am funny and always smiling person 😂😊**
 
 
 
