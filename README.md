@@ -43,6 +43,7 @@
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="Express.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://api.iconify.design/simple-icons:tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://api.iconify.design/skill-icons:nextjs-dark.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
