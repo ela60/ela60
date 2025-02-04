@@ -77,7 +77,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ela60&show_icons=true&locale=en" alt="ela60" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ela60" alt="ela60" /></p>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ela60)
+
 
 
 
